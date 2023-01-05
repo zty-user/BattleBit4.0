@@ -10,5 +10,5 @@ https://www.sfml-dev.org/download.php
 
 https://blog.csdn.net/qq_21950929/article/details/104966119
 
-部分版本可能会出现“C6993：代码分析忽略OpenMP构造”的警告,这是由于电脑自身原因导致，不会影响程序的运行和游戏的正常功能。
+可能会出现“C6993：代码分析忽略OpenMP构造”的警告,这是编译器不支持OpenMP，不会影响程序的运行和游戏的正常功能。
 
